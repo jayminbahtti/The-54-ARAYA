@@ -481,7 +481,7 @@
 
 @media screen and (max-width: 360px) {
         .highlight-contant{
-        height: 450px;
+        height: 450px !important;
     }
 }   
 
