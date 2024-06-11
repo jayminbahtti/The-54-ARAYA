@@ -1,0 +1,488 @@
+@media screen and (max-width: 1799px) {}
+
+
+@media screen and (max-width: 1599px) {}
+
+@media screen and (max-width: 1408px){}
+
+
+@media screen and (max-width: 1216px) {
+    .theme-padding {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+    section, .section {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+    .baner-subtitle h3 {
+        font-size: 14px;
+    }
+    .baner-title h1 {
+        font-size: 40px;
+    }
+   
+    .project-title h1 {
+        font-size: 22px;
+    }
+    .project-subtitle h3 {
+        margin-bottom: 15px;
+    }
+    .about-p {
+        padding-top: 0px;
+    }
+
+    .box-bottum-title-1 h3, .box-bottum-title h3 {
+        margin-left: 62px;
+    }
+    .box-bottum-title h2, .box-bottum-title-1 h2 {
+        font-size: 20px;
+    }
+        
+    /* .columns:not(.is-desktop) {
+        display: flex;
+        justify-content: space-evenly;
+    } */
+
+    .highlight-contant {
+        padding: 50px 40px;
+        background-color: #f9f0ece8;
+        height: 100%;
+        top: 0;
+        right: 0;
+    }
+    .configuration-title h1, .configuration-title-1 h1 {
+        font-size: 24px;
+    }
+    
+    .project-highlight-list {
+        margin-left: 23px;
+    }
+    .bhk3, .bhk2 {
+        max-width: 80%;
+        height: 320px;
+    }
+    .conectivity-para,  .education, .aminities-para {
+        margin-left: 10px;
+    }
+
+    .floorplan-img img {
+        width: 210px;
+        height: 210px;
+    }
+    .floor-plan-box {
+        margin: 0 auto;
+        width: 230px;
+        height: 350px;
+    }
+    .dev-info {
+        top: 0px;
+    }
+    .theme-about-img img {
+        height: 430px;
+    }
+    .icon-dev {
+        margin-bottom: 15px;
+    }
+}
+
+
+@media screen and (max-width: 1180px){
+    .baner-title h1 {
+        font-size: 36px;
+    }
+    section, .section {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .theme-padding{
+        padding-left: 80px;
+        padding-right: 80px;
+    }
+    .amenities-contant {
+        margin-left: 30px;
+    }
+    .dev-paragraph p {
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+    .li-spn {
+        font-size: 12px;
+    }
+    .dev-info {
+        top: 50px;
+    }
+    .configuration-title h1, .configuration-title-1 h1 {
+        font-size: 22px;
+        line-height: 15px;
+    }
+
+    .nav-list{
+        display: none;
+    }
+
+    .click-nav{
+        display: block;       /*none*/
+    }
+    .aminities-box img {
+        width: 30px;
+        height: 30px;
+    }
+    .dev-ic img {
+        height: 30px;
+        width: 30px;
+    }
+    .box-bottum-title-1 h3, .box-bottum-title h3 {
+        margin-left: 52px;
+    }
+}
+
+
+@media screen and (max-width: 1024px) {
+    section, .section {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .theme-padding {
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+
+    .baner-title h1 {
+        font-size: 32px;
+    }
+    .baner-detail {
+        position: absolute;
+        bottom: 5%;
+        left: 6%;
+    }
+    .baner-subtitle h3 {
+        font-size: 12px;
+    }
+    .about-p p {
+        font-size: 16px;
+    }
+    .education-detail {
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 50px;
+        gap: 32px;
+    }
+    .bhk3, .bhk2 {
+        max-width: 60%;
+        height: 320px;
+        margin: 0 auto;
+    }
+    .box-bottum-title-1 h3, .box-bottum-title h3 {
+        margin-left: 76px;
+    }
+}
+
+
+@media screen and (max-width: 990px) {
+    .baner-detail {
+        position: absolute;
+        bottom: 20%;
+        left: 10%;
+    }
+    .highlight-contant {
+        padding: 20px 30px;
+        background-color: #F9F0EC;
+        width: 100%;
+        height: 300px;
+        position: static;
+        /* top: 20%; */
+        /* right: 10%; */
+    }
+    .box-bottum-title h2, .box-bottum-title-1 h2 {
+        font-size: 16px;
+    }
+    .bhk3 h3,.bhk2 h3{
+        font-size: 12px;
+    }
+    .bhk2 h2,.bhk3 h2{
+        font-size: 14px;
+    }
+    .highlight-contant {
+        padding: 20px 70px;
+    }
+    .footer-nav-list{
+        display: none;
+    }
+}
+
+
+@media screen and (max-width: 880px){
+    .baner-detail {
+        bottom: 10%;
+    }
+    .highlight-contant {
+        height: 350px;
+    }
+    .about-padding {
+        padding: 20px;
+    }
+}
+
+
+
+@media screen and (max-width: 768px){
+    section, .section {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .theme-padding {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    .about-p p {
+        font-size: 14px;
+    }
+    .project-title {
+        width: 600px;
+        margin-left: 20px;
+    }
+    .amenities-icons {
+        gap: 20px;
+        justify-content: flex-start;
+        flex-wrap: wrap;
+    }
+    .configuration-title h1,.project-title h1, .configuration-title-1 h1{
+        font-size: 20px;
+    }
+    .about-padding {
+        padding: 20px;
+    }
+
+    /* .nn-0{
+        display: none;
+    } */
+   
+    .bhk3, .bhk2 {
+        max-width: 40%;
+    }
+    .box-bottum-title-1 h3, .box-bottum-title h3 {
+        margin-left: 94px;
+    }
+}
+
+
+@media screen and (max-width: 650px) {
+    .bhk3, .bhk2 {
+        max-width: 46%;
+    }
+    .wing-details h1 {
+        font-size: 16px;
+    }
+}
+
+
+@media screen and (max-width: 575px) {
+    .theme-padding {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .nav-logo img {
+        max-width: 70%;
+    }
+    .baner-sub {
+        width: 60px;
+    }
+    .baner-title h1 {
+        font-size: 26px;
+    }
+    .bhk3, .bhk2 {
+        max-width: 50%;
+    }
+    .configuration-title-1 {
+        width: 350px;
+        position: relative;
+    }
+    
+    .about-p p {
+        font-size: 14px;
+        font-weight: 300;
+        color: #929292;
+    }
+    .highlight-contant {
+        height: 400px;
+    }
+    .configuration-title h1, .project-title h1, .configuration-title-1 h1 {
+        font-size: 20px;
+        line-height: 30px;
+        margin-bottom: 5px;
+    }
+    .education-detail {
+        margin-left: 5px;
+        gap: 25px;
+    }
+    .education {
+        display: block;
+    }
+}
+
+
+@media screen and (max-width: 480px) {
+    section, .section {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .theme-padding {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .baner-title h1 {
+        font-size: 22px;
+    }
+    .baner-detail {
+        bottom: 8%;
+        left: 5%;
+    }
+    .configuration-title h1, .project-title h1, .configuration-title-1 h1 {
+        font-size: 18px;
+        margin-bottom: 0px;
+    }
+    .bhk3, .bhk2 {
+        max-width: 60%;
+    }
+    .icons-title h4 {
+        font-size: 12px;
+    }
+    .aminities-box img {
+        width: 25px;
+        height: 25px;
+    }
+    .floor-plan-box {
+        height: 320px;
+    }
+    .wing-details h1 {
+        font-size: 13px;
+    }
+    .wing-details h2 {
+        font-size: 12px;
+    }
+    .bar {
+        height: 4px;
+        width: 25px;
+    }
+    .mobile-nav-items ul li a{
+        color: #A27F69 !important; 
+        font-size: 16px;
+        font-weight: 400;
+    }
+    .mobile-nav-items ul li a:hover{
+        color: #A27F69 !important; 
+        font-size: 17px;
+        font-weight: 500;
+    }
+    .active {
+        width: 100%;
+    }
+    .configuration-subtitle {
+        margin-bottom: 5px;
+    }
+    .highlight-contant {
+        padding: 20px 30px;
+        height: 400px;
+    }
+}
+
+
+@media screen and (max-width: 420px) {
+    .baner-title h1 {
+        font-size: 20px;
+    }
+    .baner-subtitle {
+        margin-bottom: 5px;
+    }
+    .baner-sub {
+        width: 40px;
+    }
+    .baner-sub {
+        margin-right: 10px;
+    }
+    .nav-logo img {
+        max-width: 60%;
+    }
+    .highlight-contant {
+        padding: 20px 30px;
+        height: 400px;
+    }
+    .amenities-contant {
+        margin-left: 5px;
+    }
+    .configuration-title h1, .project-title h1, .configuration-title-1 h1 {
+        font-size: 16px;
+    }
+    .conectivity-para p {
+        font-size: 12px;
+    }
+    .bhk3, .bhk2 {
+        max-width: 70%;
+    }
+}
+
+
+@media screen and (max-width: 380px) {
+    .theme-padding {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .nav-logo img {
+        max-width: 50%;
+    }
+    .baner-subtitle h3 {
+        font-size: 10px;
+    }
+    .baner-sub {
+        width: 30px;
+    }
+
+    .baner-title h1 {
+        font-size: 18px;
+    }
+    .configuration-title-1 {
+        width: 280px;
+    }
+    .education-list-1 li:last-child {
+        font-size: 12px;
+        margin-bottom: 5px;
+    }
+    .education-detail {
+        gap: 10px;
+    }
+    .footer-logo img{
+        max-width: 35px;
+        height: auto;
+    }
+    .bhk3, .bhk2 {
+        height: 280px;
+    }
+    .box-bottum-title-1 h3, .box-bottum-title h3 {
+        margin-left: 70px;
+    }
+    .configuration-subtitle h3 {
+        font-size: 12px;
+    }
+    .floor-plan-box {
+        height: 300px;
+    }
+    .footer-title, .rights, .Privacy {
+        font-size: 12px;
+        color: white;
+    }
+    .footer-subtitle, p {
+        font-size: 12px;
+    }
+    .theme-about-img img {
+        height: 360px;
+    }
+}
+
+@media screen and (max-width: 360px) {
+        
+}   
+
+
+
+
